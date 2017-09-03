@@ -10,7 +10,7 @@ This game was built for the Udacity Front End Nanodegree Program. The purpose of
 ## How to Load the App
 You can run a hosted version of the app at [https://sarah-maris.github.io/udacity-pixel-art/](https://sarah-maris.github.io/udacity-pixel-art/)
 
-To run a local copy, clone or download the code repository at [](https://github.com/sarah-maris/udacity-pixel-art.githttps://github.com/sarah-maris/udacity-pixel-art.git).   If downloaded, unzip the folder and run `index.html` in your favorite browser.
+To run a local copy, clone or download the code repository at [https://github.com/sarah-maris/udacity-pixel-art.githttps://github.com/sarah-maris/udacity-pixel-art.git](https://github.com/sarah-maris/udacity-pixel-art.githttps://github.com/sarah-maris/udacity-pixel-art.git).   If downloaded, unzip the folder and run `index.html` in your favorite browser.
 
 ## How to Use the App
 1. Set the canvas size using the width and height input selects boxes.  When finished, click on submit.
